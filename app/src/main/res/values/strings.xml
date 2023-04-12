@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="die_1_text">One Foot (Left Leading)</string>
+    <string name="die_1_option_2">One Foot (Right Leading)</string>
+    <string name="die_1_option_3">Two Feet (Left Leading)</string>
+    <string name="die_1_option_4">Two Feet (Right Leading)</string>
+
+    <string name="die_2_text">Leading: Groove positive</string>
+    <string name="die_2_option_2">Leading: Groove negative</string>
+    <string name="die_2_option_3">Leading: Soul positive</string>
+    <string name="die_2_option_4">Leading: Soul negative</string>
+
+    <string name="die_3_text">Trailing: Groove positive</string>
+    <string name="die_3_option_2">Trailing: Groove negative</string>
+    <string name="die_3_option_3">Trailing: Soul positive</string>
+    <string name="die_3_option_4">Trailing: Soul negative</string>
+
+    <string name="die_4_text">No-spin</string>
+    <string name="die_4_option_2">AO</string>
+    <string name="die_4_option_3">Truespin</string>
+    <string name="die_4_option_4">Half-cab</string>
+    <string name="die_4_option_5">Truespin Half-cab</string>
+
+    <string name="result_text">Roll the dice to start!</string>
+</resources>

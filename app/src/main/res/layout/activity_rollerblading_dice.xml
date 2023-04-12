@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RollerbladingDiceActivity">
+
+    <TextView
+        android:id="@+id/result_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:text="@string/result_text" />
+
+    <Button
+        android:id="@+id/die_1_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/die_1_text" />
+
+    <Button
+        android:id="@+id/die_2_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/die_2_text" />
+
+    <Button
+        android:id="@+id/die_3_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/die_3_text" />
+
+    <Button
+        android:id="@+id/die_4_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/die_4_text" />
+
+</LinearLayout>
